@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**linshenhao/linshenhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](background.png)
 
-Here are some ideas to get you started:
+# 👉🏻 **Lin Shen Hao Stefano** 👈🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ `BSc in Physics` | `MSc in Data Science`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefano%20Lin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linshenhao-49b127393)
+[![Gmail Badge](https://img.shields.io/badge/-linshenhao2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:linshenhao2000@gmail.com)](mailto:linshenhao2000@gmail.com)
+
+---
+
+Hello! I'm Lin Shen Hao Stefano, a passionate **Physics, AI, Machine Learning, Deep Learning, and Computer/Data Vision** enthusiast with a solid foundation in **Physics and Data Science**. I thrive on working on innovative projects.
+
+---
+
+## 🔥 **Current Position**
+Data Science Master degree student
+
+---
+
+## 🛠 **Tech Stack & Tools**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pycharm,pytorch,tensorflow,r,c,cpp,latex,mysql,github" alt="Tech Stack Icons"/>
+  </a>
+</p>
+
+---
+
+## 📖 **Publications**
+
+coming soon
+
+---
