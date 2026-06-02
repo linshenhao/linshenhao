@@ -1,5 +1,5 @@
 
-![Profile Banner](background.png)
+![Profile Banner](banner.png)
 
 # 👉🏻 **Lin Shen Hao Stefano** 👈🏻
 
