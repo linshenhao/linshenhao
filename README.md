@@ -31,6 +31,6 @@ Data Science Master degree student
 
 ## 📖 **Publications**
 
-coming soon
+👉🏻 [Deep Learning Project](https://github.com/linshenhao/hmdb51-action-recognition)
 
 ---
