@@ -6,7 +6,7 @@
  `BSc in Physics` | `MSc in Data Science`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefano%20Lin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linshenhao-49b127393)
-[![Gmail Badge](https://img.shields.io/badge/-linshenhao2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:linshenhao2000@gmail.com)](mailto:linshenhao2000@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-linshenhao.work@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:linshenhao.work@gmail.com)](mailto:linshenhao.work@gmail.com)
 
 ---
 
