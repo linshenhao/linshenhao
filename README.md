@@ -23,7 +23,7 @@ Data Science Master degree student
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pycharm,pytorch,tensorflow,r,c,cpp,latex,mysql,github" alt="Tech Stack Icons"/>
+    <img src="https://skillicons.dev/icons?i=python,pycharm,pytorch,tensorflow,r,c,cpp,latex,mysql,vscode,github" alt="Tech Stack Icons"/>
   </a>
 </p>
 
