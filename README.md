@@ -32,5 +32,6 @@ Data Science Master degree student
 ## 📖 **Publications**
 
 👉🏻 [Deep Learning Project](https://github.com/linshenhao/hmdb51-action-recognition)
+
 👉🏻 [Financial Market Analytics Project](http://github.com/linshenhao/pairs-trading-sp500-stoxx)
 ---
