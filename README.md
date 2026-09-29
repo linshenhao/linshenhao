@@ -35,4 +35,6 @@ Data Science Master degree student
 
 👉🏻 [Financial Market Analytics Project](https://github.com/linshenhao/pairs-trading-sp500-stoxx)
 
+👉🏻 [Data Science Lab Project](https://github.com/linshenhao/financial-literacy-italy)
+
 ---
